@@ -24,9 +24,6 @@ The author examines historical records from 19th-century France to investigate t
 - `main.ipynb` contains the Python code to complete the three tasks required by the assignment.
 - `pyproject.toml`, created by `uv`, contains the packages used. 
 
-### Notes on Data Availability
-The datasets used in this project (`.dta` files) are excluded by the repository. The data was directly provided by the course professors for educational purpose. To respect academic integrity and potential data licensing constraints, I decided to include the Data folder in the `.gitignore` file.
-
 # References 
 Squicciarini, Mara P. 2020. "Devotion and Development: Religiosity, Education, and Economic Progress in Nineteenth-Century France." American Economic Review 110 (11): 3454–91. DOI: 10.1257/aer.20191054
 
