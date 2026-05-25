@@ -23,4 +23,4 @@ The author examines historical records from 19th-century France to investigate t
 ## Project structure
 - `Data/` contains the `.dta` files used for the analysis.
 - `main.ipynb` contains the Python code to complete the three tasks required by the assignment.
-- `pyproject.toml` contains the packages used.
+- `pyproject.toml`, created by `uv`, contains the packages used. 
