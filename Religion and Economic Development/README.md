@@ -20,7 +20,7 @@ The author examines historical records from 19th-century France to investigate t
 - **Workforce impact**: Religiously educated individuals were less likely to be employed in innovative, skill-intensive sectors, suggesting that educational content influenced the long-term industrialization process.
 - **Robustness** : Findings remained consistent after controlling for  vaccination rates and fertility indices. This support the argument whereby education was a primary driver of economic progress.
 
-## Project structure
+## Project structure
 - `main.ipynb` contains the Python code to complete the three tasks required by the assignment.
 - `pyproject.toml`, created by `uv`, contains the packages used. 
 
